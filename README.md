@@ -1,2 +1,2 @@
-# learn_svg
-Machine learning of SVG
+# travel_events
+Widgets to display current events by location
